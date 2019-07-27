@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="Card card"
+>
+  <div
+    className="card-body"
+  >
+    <h6
+      className="card-title d-flex justify-content-between"
+    >
+      <span
+        className="text-capitalize"
+      >
+        CEO
+      </span>
+    </h6>
+    <p>
+      1000000
+    </p>
+    <p>
+      10
+    </p>
+    <button
+      className="btn btn-danger font-weight-bold text-uppercase float-right"
+    >
+      Apply
+    </button>
+  </div>
+</div>
+`;

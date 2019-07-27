@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot for company 1`] = `
+<CompanyCard
+  item={
+    Object {
+      "description": "Become an exceptional developer in 16 weeks.",
+      "handle": "rithm",
+      "logo_url": "https://pbs.twimg.com/profile_images/770491761412173826/ZUeIa4tw_400x400.jpg",
+      "name": "Rithm School",
+    }
+  }
+/>
+`;
+
+exports[`matches snapshot for job 1`] = `
+<JobCard
+  item={
+    Object {
+      "equity": 10,
+      "salary": 1000000,
+      "title": "CEO",
+    }
+  }
+/>
+`;

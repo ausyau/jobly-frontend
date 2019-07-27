@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="Login"
+>
+  <div
+    className="container col-md-4 offset-md-4"
+  >
+    <div
+      className="d-flex justify-content-end"
+    >
+      <div
+        className="btn-group"
+      >
+        <button
+          className="btn btn-primary active "
+          onClick={[Function]}
+        >
+          Login
+        </button>
+        <button
+          className="btn btn-primary  "
+          onClick={[Function]}
+        >
+          Sign up
+        </button>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <div
+        className="card-body"
+      >
+        <form
+          onSubmit={[Function]}
+        >
+          <div
+            className="form-group"
+          >
+            <label>
+              Username
+            </label>
+            <input
+              className="form-control"
+              name="username"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="form-group"
+          >
+            <label>
+              Password
+            </label>
+            <input
+              className="form-control"
+              name="password"
+              onChange={[Function]}
+              type="password"
+              value=""
+            />
+          </div>
+          <button
+            className="btn btn-primary float-right"
+            onSubmit={[Function]}
+            type="submit"
+          >
+            Submit
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+`;

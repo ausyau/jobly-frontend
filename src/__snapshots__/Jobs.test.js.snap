@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot with no jobs 1`] = `
+<div
+  className="Jobs col-md-8 offset-md-2"
+>
+  <Search
+    endpoint="jobs"
+    searchFor={[Function]}
+  />
+  <CardList
+    cards={Array []}
+    handleApply={[Function]}
+  />
+</div>
+`;

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="CardList"
+>
+  <Card
+    handleApply={[Function]}
+    item="card1"
+    key="0"
+  />
+  <Card
+    handleApply={[Function]}
+    item="card2"
+    key="1"
+  />
+</div>
+`;

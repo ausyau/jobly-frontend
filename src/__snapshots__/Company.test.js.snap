@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot after loading 1`] = `
+<div
+  className="col-md-8 offset-md-2"
+>
+  <h5
+    className="text-capitalize"
+  >
+    Specialty's
+  </h5>
+  <p>
+    zomg cookies
+  </p>
+  <CardList
+    cards={Array []}
+  />
+</div>
+`;
+
+exports[`matches snapshot while loading 1`] = `
+<div>
+  Loading...
+</div>
+`;
